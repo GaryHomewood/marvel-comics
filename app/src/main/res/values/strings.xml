@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Marvel Comics</string>
+    <string name="title_activity_comic_list">ComicListActivity</string>
+    <string name="action_settings">Settings</string>
+</resources>
